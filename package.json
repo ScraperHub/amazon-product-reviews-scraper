@@ -1,0 +1,23 @@
+{
+  "name": "amazon-product-reviews-scraper",
+  "version": "1.0.0",
+  "description": "Amazon Product Reviews Scraper in JavaScript. In the script, we are using Crawlbase \"amazon-product-reviews\" scraper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScraperHub/amazon-product-reviews-scraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScraperHub/amazon-product-reviews-scraper/issues"
+  },
+  "homepage": "https://github.com/ScraperHub/amazon-product-reviews-scraper#readme",
+  "dependencies": {
+    "crawlbase": "^1.0.2"
+  }
+}
